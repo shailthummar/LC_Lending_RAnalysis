@@ -1,5 +1,5 @@
 ---
-title: " Assignment 2 - Lending Club Case"
+title: " Lending Club Case"
 author: "Shailaja Thummar"
 date: "Fall 2024"
 output:
@@ -15,7 +15,7 @@ library(ggplot2)
 
 #Loading the data
 ```{r}
-lcdf <- read_csv("/Users/debanganasanyal/Desktop/Fall2024/Data Mining/Assignment 2/lcDataSample.csv")
+lcdf <- read_csv("/Users/shailajathummar/Desktop/lcDataSample.csv")
 head(lcdf)
 glimpse(lcdf)
 ```
